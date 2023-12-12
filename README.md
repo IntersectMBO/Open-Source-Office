@@ -3,7 +3,6 @@ Intersect MBO Open Source Program Office (OSPO)
 Welcome to our OSPO page! Our OSPO is responsible for managing our open source program and community, and ensuring that we engage with the open source community in a transparent and effective manner. Below, you will find information about our open source policies and processes, as well as resources for contributors and community members.
 
 Our Open Source Policies and Processes
-Open Source Policy
 Our open source policy outlines our commitment to open source software and our principles for contributing to open source projects. You can read our policy [here](link to policy).
 
 Contribution Guidelines
