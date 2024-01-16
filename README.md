@@ -11,7 +11,7 @@ Getting Started,
 If you are new to open source software and would like to get involved in our community, we recommend starting with our [getting started guide](link to guide), which provides an overview of our open source projects and community.
 
 Code of Conduct, 
-We have adopted a code of conduct for our open source community, which outlines our expectations for behavior and interaction. You can find our code of conduct Code of Conduct.
+We have adopted a code of conduct for our open source community, which outlines our expectations for behavior and interaction. You can find our Code of Conduct.
 
 Issue Tracker, 
 If you would like to report an issue or request a new feature for one of our open source projects, you can do so by submitting a ticket on our issue tracker [link to issue tracker].
