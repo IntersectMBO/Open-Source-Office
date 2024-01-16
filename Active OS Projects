@@ -1,0 +1,79 @@
+Active list of Projects Hosted by intersect:
+
+Cardano Base: 
+Code used throughout the Cardano eco-system.
+
+Cardano Crypto: 
+This repository provides cryptographic libraries that are used in the Byron era of the Cardano node.
+
+Cardano DB Sync: 
+A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL.
+
+Cardano Ledger: 
+The ledger implementation and specifications of the Cardano blockchain.
+
+Cardano Node: 
+The core component that is used to participate in a Cardano decentralised blockchain.
+
+Cardano Node Test:
+System and end-to-end (E2E) tests for cardano-node.
+
+Cardano Prelude:
+A protolude-based custom prelude for the Cardano project.
+
+Cardano Updates:
+Regular updates from the Cardano developer team.
+
+Cardano World:
+Cardano world provides preprod and preview cardano networks, configuration documentation and miscellaneous automation.
+
+Formal Ledger:
+Formal specifications of the cardano ledger.
+
+LibSodium:
+IOG’s Forked version of Libsodium utilized: A modern, portable, easy to use crypto library.
+
+Ouroboros Network:
+An implementation of the Ouroboros family of consensus algorithms, with its networking support
+
+Ouroboros Consensus:
+Implementation of a Consensus Layer for the Ouroboros family of protocols
+
+Win32 Network:
+Networking library for Windows.
+
+Essential Cardano:
+Repository for the Essential Cardano list.
+
+Cardano Haskell Package:
+Metadata for Cardano's Haskell package repository.
+
+Plutus:
+The Plutus language implementation and tools.
+
+Plutus Apps:
+The Plutus application platform.
+
+Cardano CLI:
+This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
+
+Cardano API:
+Cardano's API and related fucntions.
+
+Cardano Addresses:
+Addresses and mnemonic manipulation & derivations
+
+Cardano Coin Selection:
+A library of algorithms for coin selection and fee balancing.
+
+Cardano Launcher:
+Shelley cardano-node and cardano-wallet launcher for NodeJS applications
+
+Bech 32:
+Haskell implementation of the Bech32 address format (BIP 0173).
+
+Cardano Transactions:
+Library utilities for constructing and signing Cardano transactions.
+
+Cardano test plans:
+User Journey Stories for Chang HF Markdown
