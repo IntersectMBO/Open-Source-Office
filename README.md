@@ -1,11 +1,11 @@
 # OSPO
 Welcome to our OSPO page! Our OSPO is responsible for managing our open source program and community, and ensuring that we engage with the open source community in a transparent and effective manner. Below, you will find information about our open source policies and processes, as well as resources for contributors and community members.
 
-Our open source policy outlines our commitment to open source software and our principles for contributing to open source projects. You can read our policy [here](link to policy).
+Our open source policy outlines our commitment to open source software and our principles for contributing to open source projects.
 
-We have created contribution guidelines to provide a clear and transparent process for contributing to our open source projects. You can find our guidelines [here](link to guidelines).
+We have created contribution guidelines to provide a clear and transparent process for contributing to our open source projects. 
 
-All of our open source projects are released under [insert license], which provides users with the right to use, modify, and distribute our software.
+All of our open source projects are released under Apache 2.0, which provides users with the right to use, modify, and distribute our software.
 
 Getting Started, 
 If you are new to open source software and would like to get involved in our community, we recommend starting with our [getting started guide](link to guide), which provides an overview of our open source projects and community.
