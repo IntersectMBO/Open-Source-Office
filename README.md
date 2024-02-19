@@ -29,4 +29,4 @@ Events,
 We occasionally host events and meetups for our open source community. You can find information about upcoming events on our [events page](link to events page).
 
 Contact Us, 
-If you have any questions or concerns about our open source program, or if you would like to get in touch with our OSPO team, you can contact us at [insert contact email].
+If you have any questions or concerns about our open source program, or if you would like to get in touch with our OSPO team, you can contact us at ospo@intersectmbo.org
