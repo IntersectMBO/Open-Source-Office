@@ -1,5 +1,5 @@
-# OSPO
-Welcome to our OSPO page! Our OSPO is responsible for managing our open source program and community, and ensuring that we engage with the open source community in a transparent and effective manner. Below, you will find information about our open source policies and processes, as well as resources for contributors and community members.
+# Proejct Support Office
+Welcome to our PSO page! Our PSO is responsible for managing our open source program and community, and ensuring that we engage with the open source community in a transparent and effective manner. Below, you will find information about our open source policies and processes, as well as resources for contributors and community members.
 
 Our open source policy outlines our commitment to open source software and our principles for contributing to open source projects.
 
@@ -29,4 +29,4 @@ Events,
 We occasionally host events and meetups for our open source community. You can find information about upcoming events on our [events page](link to events page).
 
 Contact Us, 
-If you have any questions or concerns about our open source program, or if you would like to get in touch with our OSPO team, you can contact us at ospo@intersectmbo.org
+If you have any questions or concerns about our open source program, or if you would like to get in touch with our PSO team, you can contact us at ospo@intersectmbo.org
