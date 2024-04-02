@@ -1,5 +1,46 @@
 # Open Source Office
-Welcome to our OSO page! Our OSO is responsible for managing our open source program and community, and ensuring that we engage with the open source community in a transparent and effective manner. Below, you will find information about our open source policies and processes, as well as resources for contributors and community members.
+Welcome to our OSO page! Our OSO manages our open-source program and community and ensures we engage with the open-source community transparently and effectively. Below, OSO members have included some information about our open-source policies, processes, and resources for contributors and community members.
+
+## **Why are we doing Open Source?**
+* **Current State:** Cardano offers a community with access to funding to develop a blockchain network.
+- **Future state:** Open source builds the community with franchise leverage, which creates development speed.
++ Speed of development** creates adoption of the technology
++ Adoption creates Utility (dependency of a customer on the network - this is where we want to be)
++ Cardano has to survive on transaction fees when funding runs out and the treasury runs dry. Cardano can only develop sufficient transaction fees if it has utility, which millions of customers need and/or want to use.
++ Open source is the conduit for the delivery of the business plan.
+
+## **Why an OSO?**
+* **Enhanced Innovation:** An OSO fosters collaboration with open-source communities, allowing the Intersect to tap into a wealth of innovative ideas, technologies, and solutions.
+- **Cost Savings:** Utilizing open-source software can significantly reduce licensing and development costs, improving the organization's cost-efficiency.
++ **Strategic Advantages:** Through open source engagement, the Intersect gains strategic advantages, such as quicker time-to-market, adaptability to emerging trends, and a competitive edge in technology adoption.
++ **Risk Mitigation:** The OSO ensures compliance with open-source licenses, reducing the legal and operational risks associated with mismanaged open-source software.
++ **Operational Efficiency:** With a structured framework for managing open source contributions and engagements, the OSO enhances operational efficiency and streamlines the organization's open source strategy for maximum effectiveness.
+
+## **Background:** 
+Open source is becoming increasingly crucial for Cardano as it provides access to faster development and community involvement and allows for greater innovation through collaboration with the broader ecosystem. However, managing open-source software can be challenging, which is where an Open Source Office (OSO) comes in.
+
+## **Definitions:** 
+* **An Open Source Office (OSO)** is a dedicated team managing Intersect's open-source strategy, policy, and processes. It ensures that Intersect and its projects comply with open-source licenses, contribute back to the open-source community, and maximize the benefits of using open-source.
+- **The Open Source Committee (OSC)** is a crucial body dedicated to fostering and overseeing the open-source development of the Cardano blockchain within the Intersect organization. Think of the OSC as a steering committee for Cardano's open-source journey within Intersect.
++ **The Open Source Organization (OSOrg)** is a fully functional system composed of the Open Source Office and the Open Source Committee.
+
+## **Objectives of the Open Source Program Office:**
+
+### **Cardano Open Source Strategy** 
+The OSPO serves as the steward of Cardano's open-source strategy. The open-source strategy will focus on bringing Cardano fully into open source. It will define how we work, govern, and intend to build a community purposed and developed Cardano.
+### **Cardano Open Source Pilot Oversight**
+The OSO will oversee a pilot of the Cardano Strategy. This will be the test case to validate the strategy and its execution. Through this pilot, we will validate the Proof of concept that Cardano is open source.
+
+## **OSO Responsibilities:**
+The OSO has a wide range of responsibilities, including:
+* Developing an open-source strategy and policy for Intersect.
+- Maintaining an inventory of open-source software used within Intersect.
++ Ensuring compliance with open source licenses and addressing any license violations.
++ Encourages the open-source community to make code contributions, fix bugs, and engage in other forms of engagement.
++ Manage the intersecting relationship with the open source community, educate members on open source and its benefits, and provide guidance and support to development teams on using and contributing to open source projects.
+
+
+
 
 Our open source policy outlines our commitment to open source software and our principles for contributing to open source projects.
 
