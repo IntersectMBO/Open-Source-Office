@@ -28,10 +28,10 @@ Open source is becoming increasingly crucial for Cardano as it provides access t
 - **The Open Source Committee (OSC)** is a crucial body dedicated to fostering and overseeing the open-source development of the Cardano blockchain within the Intersect organization. Think of the OSC as a steering committee for Cardano's open-source journey within Intersect.
 + **The Open Source Organization (OSOrg)** is a fully functional system composed of the Open Source Office and the Open Source Committee.
 
-## **Objectives of the Open Source Program Office:**
+## **Objectives of the Open Source Office:**
 
 ### **Cardano Open Source Strategy** 
-The OSPO serves as the steward of Cardano's open-source strategy. The open-source strategy will focus on bringing Cardano fully into open source. It will define how we work, govern, and intend to build a community purposed and developed Cardano.
+The OSO serves as the steward of Cardano's open-source strategy. The open-source strategy will focus on bringing Cardano fully into open source. It will define how we work, govern, and intend to build a community purposed and developed Cardano.
 ### **Cardano Open Source Pilot Oversight**
 The OSO will oversee a pilot of the Cardano Strategy. This will be the test case to validate the strategy and its execution. Through this pilot, we will validate the Proof of concept that Cardano is open source.
 
