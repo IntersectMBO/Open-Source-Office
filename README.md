@@ -58,4 +58,4 @@ The OSO has a wide range of responsibilities, including:
 + **Open Source Projects** We maintain a list of our open-source projects on our website, as well as information about each project and links to the project repositories. Our list of open source projects [here](link to projects).
 + **Community Blog** We maintain a blog that posts updates about our open-source projects, articles, and tutorials on open-source software. You can find our Blog [here](link to Blog).
 + **Events** We occasionally host events and meetups for our open-source community. You can find information about upcoming events on our [events page](link to events page).
-+ **Contact Us** If you have any questions or concerns about our open-source program, or if you would like to get in touch with our OSO team, you can contact us at ospo@intersectmbo.org
++ **Contact Us** If you have any questions or concerns about our open-source program, or if you would like to get in touch with our OSO team, you can contact us at oso@intersectmbo.org
