@@ -1,0 +1,91 @@
+name: Maintainer Retainer Program Tracker
+description: Internal project tracker to operationalize and scale the Maintainer Retainer Program.
+owner: open-source-office
+state: open
+
+milestones:
+  - title: Milestone 1 – Operationalize Post-Pilot Program Infrastructure
+    description: Transition pilot learnings into reusable systems for scaling.
+    due_date: 2025-08-15
+    items:
+      - title: Consolidate pilot feedback
+        assignees: [program-manager]
+        status: todo
+      - title: Publish Maintainer Handbook
+        assignees: [writer, tech-lead]
+        status: todo
+      - title: Finalize onboarding SOPs
+        assignees: [admin, ops]
+        status: todo
+      - title: Set up unified tracking system
+        assignees: [tooling-lead]
+        status: todo
+      - title: Define monthly review workflow
+        assignees: [ops, comms]
+        status: todo
+      - title: Draft health check protocol
+        assignees: [people-ops, pm]
+        status: todo
+
+  - title: Milestone 2 – Gradual Scale-Up (30% Coverage)
+    description: Onboard new maintainers and begin partial coverage of critical repos.
+    due_date: 2025-09-15
+    items:
+      - title: Update project priority list
+        assignees: [analyst, tech-lead]
+        status: todo
+      - title: Recruit 3–5 maintainers
+        assignees: [program-lead, comms]
+        status: todo
+      - title: Conduct onboarding
+        assignees: [admin, tech-lead]
+        status: todo
+      - title: Schedule monthly check-ins
+        assignees: [ops, pm]
+        status: todo
+      - title: Publish monthly reports
+        assignees: [comms]
+        status: todo
+      - title: Assign onboarding liaisons
+        assignees: [program-coordinator]
+        status: todo
+
+  - title: Milestone 3 – Achieve Full Staffing (100% Coverage)
+    description: Fully staff all top-priority repos with maintainers and support systems.
+    due_date: 2025-10-15
+    items:
+      - title: Finalize Maintainer Coverage Map
+        assignees: [design, ops]
+        status: todo
+      - title: Onboard final maintainers
+        assignees: [admin, tech-lead]
+        status: todo
+      - title: Assign project liaisons
+        assignees: [pm, coordinator]
+        status: todo
+      - title: Launch Maintainer Sync Circle
+        assignees: [comms, community-lead]
+        status: todo
+      - title: Add to Incident Monitoring loop
+        assignees: [security-lead]
+        status: todo
+
+  - title: Milestone 4 – Evaluate & Institutionalize
+    description: Measure program outcomes and embed in long-term governance and funding.
+    due_date: 2025-11-15
+    items:
+      - title: Run impact assessment
+        assignees: [analyst, tech-lead]
+        status: todo
+      - title: Conduct stakeholder interviews
+        assignees: [community-lead]
+        status: todo
+      - title: Present results to OSC
+        assignees: [program-lead]
+        status: todo
+      - title: Build transparency dashboard
+        assignees: [devops, designer]
+        status: todo
+      - title: Publish program roadmap
+        assignees: [program-lead, comms]
+        status: todo
