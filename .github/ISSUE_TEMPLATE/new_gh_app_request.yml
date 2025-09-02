@@ -1,0 +1,39 @@
+name: Application Request - IntersectMBO GitHub Organization
+description: Application request for repos owned by IntersectMBO
+labels: [':thought_balloon: idea']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for contributing to core Cardano!** :green_heart:
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Why do we need this application
+      placeholder: |
+        Give context and describe the application and features
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What
+      description: What benefit does this application provide, that is not already offered natively by GitHub
+      placeholder: |
+        For example describe reporting features, connecting API's, etc. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: How
+      description: How much does this application cost
+      placeholder: |
+        List the repositories that would use this application. List out the subscription levels and associated costss, 
+        please link to the benefits listed above. 
+    validations:
+      required: true
