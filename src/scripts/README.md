@@ -19,11 +19,11 @@ Instructions to install or run.
     - the output should include output locations myuserdir and runninghere (for example)
     - output is html, pdf and markdown
      - ==============================================
-       [OUTPUT] Working directory : /home/myuserdir/runninghere
-       [OUTPUT] HTML report       : /home/myuserdir/runninghere/io_da_attest.html
-       [OUTPUT] PDF report        : /home/myuserdir/runninghere/io_da_attest.pdf
-       [OUTPUT] Markdown summary  : /home/myuserdir/runninghere/io_da_attest.md
-       ==============================================
+     -  [OUTPUT] Working directory : /home/myuserdir/runninghere
+     -  [OUTPUT] HTML report       : /home/myuserdir/runninghere/io_da_attest.html
+     -  [OUTPUT] PDF report        : /home/myuserdir/runninghere/io_da_attest.pdf
+     -  [OUTPUT] Markdown summary  : /home/myuserdir/runninghere/io_da_attest.md
+     -  ==============================================
 
 
 ## Usage
