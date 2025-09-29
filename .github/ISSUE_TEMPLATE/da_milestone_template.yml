@@ -1,0 +1,47 @@
+name: 🗓️ Milestone
+description: Define a new project milestone, internal or for a contract.
+labels: [':dart: milestone', 'enhancement']
+body:
+  - type: textarea
+    id: milestone-description
+    attributes:
+      label: Milestone Description
+      description: Provide a clear and concise description of the milestone. What is the core objective or deliverable?
+      placeholder: |
+        e.g., "Implement the new off-chain governance feature, including the API endpoints and database schema updates."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: contract-milestone
+    attributes:
+      label: Is this a contract milestone?
+      description: Check this box if this milestone is part of a formal contract.
+      options:
+        - label: Yes, this is a contract milestone.
+          required: false
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: List the specific criteria that must be met for this milestone to be considered complete.
+      placeholder: |
+        - [ ] All new API endpoints are documented and tested.
+        - [ ] The database schema is updated and migrated.
+        - [ ] End-to-end tests are passing.
+        - [ ] A final code review has been completed and signed off.
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: due-date
+    attributes:
+      label: Milestone Due Date
+      description: Select the target quarter for completion.
+      options:
+        - "Q4 2025"
+        - "Q1 2026"
+        - "Q2 2026"
+    validations:
+      required: truename: 🗓️ Milestone
