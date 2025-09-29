@@ -44,4 +44,4 @@ body:
         - "Q1 2026"
         - "Q2 2026"
     validations:
-      required: truename: 🗓️ Milestone
+      required: true
