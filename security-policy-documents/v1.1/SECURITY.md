@@ -94,7 +94,7 @@ To report a security vulnerability, please use {SOMETHING}. Should you experienc
 
 This Security Vulnerability Disclosure Policy may be updated or
 revised as necessary. Please check the latest version of this policy
-on the [{PROJECT-NAME} repository](https://github.com/IntersectMBO/{PROJECT-NAME}).
+on the [Open Source Office repository](https://github.com/IntersectMBO/Open-Source-Office).
 
 ## Conclusion
 
