@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The Cardano open source project Open Source Office is committed to ensuring the security of its software and the privacy of its users. We value the contributions of the security community in helping us identify and address
+The Cardano open source project Open Source Office is committed to ensuring 
+the security of its software and the privacy of its users. 
+We value the contributions of the security community in helping us identify and address
 vulnerabilities in our code. This Security Vulnerability Disclosure
 Policy outlines how security vulnerabilities should be reported and
 how we will respond to and remediate such reports.
@@ -11,7 +13,7 @@ how we will respond to and remediate such reports.
 
 ### Reporting a Vulnerability
 
-If you discover a security vulnerability in xxxx, we encourage you to
+If you discover a security vulnerability in Open Source Office, we encourage you to
 responsibly disclose it to us. To report a vulnerability, please use
 the [private reporting form on
 GitHub](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new) to draft a new _Security advisory_.
