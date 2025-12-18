@@ -99,7 +99,8 @@ on the [Open-Source-Office](https://github.com/IntersectMBO/Open-Source-Office).
 
 ## Conclusion
 
-The Open Source Office project greatly appreciates the assistance of the security community in helping us maintain the security of our software while
+The Open Source Office project greatly appreciates the assistance of the security 
+community in helping us maintain the security of our software while
 upholding the highest standards of privacy. Together, we can work to
 identify and address vulnerabilities, ensuring a safer and more secure
 experience for all users.
