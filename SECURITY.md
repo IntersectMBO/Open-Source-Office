@@ -88,8 +88,8 @@ report security vulnerabilities to us.
 
 ## Contact Information
 
-To report a security vulnerability, please use [GitHub
-form]((add project github form for your project)). Should you experience any issues reporting via GitHub or have other questions, Please contact [Security](security@intersectmbo.org).
+To report a security vulnerability, please use the [GitHub
+form](([add project github form for your project](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new))). Should you experience any issues reporting via GitHub or have other questions, Please contact [Security](security@intersectmbo.org).
 
 ## Revision of Policy
 
