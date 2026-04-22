@@ -52,7 +52,6 @@ Please include as many details as needed to clearly qualify the issue:
    a. **Mitigation**: Depending on the severity and criticality of the issue, the team can decide to disclose the issue publicly in the absence of a fix _if and only if_ a clear, simple, and effective mitigation plan is defined. This _must_ include instructions for users and operators of the software, and a time horizon at which the issue will be properly fixed (eg. version number).
 
    b. **Fix**: When a fix is available and approved, it should be merged and made available as quickly as possible:
-
    - All commits to the private repository are squashed into a single commit whose description _should not_ make any reference that it relates to a security vulnerability
    - A new Pull Request is created with this single commit
    - This PR's review and merging is expedited as all the work as already been done
@@ -94,7 +93,7 @@ To report a security vulnerability, please use the [security advisory form on Gi
 
 This Security Vulnerability Disclosure Policy may be updated or
 revised as necessary. Please check the latest version of this policy
-on the [Open-Source-Office repository](https://github.com/IntersectMBO/Open-Source-Office).
+on the [Open-Source-Office repository](https://github.com/IntersectMBO/Open-Source-Office/tree/add-security-policies/security-policy-documents).
 
 ## Conclusion
 
