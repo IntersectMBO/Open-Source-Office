@@ -2,7 +2,7 @@
 
 ## Introduction
 
-{PROJECT-NAME} is committed to ensuring the security of
+The Cardano {PROJECT-NAME} is committed to ensuring the security of
 its software and the privacy of its users. We value the contributions
 of the security community in helping us identify and address
 vulnerabilities in our code. This Security Vulnerability Disclosure
