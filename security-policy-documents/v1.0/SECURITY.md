@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Cardano Open-Source-Office is committed to ensuring the security of
+{PROJECT-NAME} is committed to ensuring the security of
 its software and the privacy of its users. We value the contributions
 of the security community in helping us identify and address
 vulnerabilities in our code. This Security Vulnerability Disclosure
@@ -13,7 +13,7 @@ how we will respond to and remediate such reports.
 
 ### Reporting a Vulnerability
 
-If you discover a security vulnerability in Open-Source-Office, we encourage you to
+If you discover a security vulnerability in {PROJECT-NAME}, we encourage you to
 responsibly disclose it to us. To report a vulnerability, please use
 the [security advisory form on GitHub](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new)
 to draft a new _Security advisory_.
@@ -22,7 +22,7 @@ Please include as many details as needed to clearly qualify the issue:
 
 - A description of the vulnerability and its potential impact.
 - Steps to reproduce the vulnerability.
-- The version of Open-Source-Office where the vulnerability exists.
+- The version of {PROJECT-NAME} package where the vulnerability exists.
 - Any relevant proof-of-concept or exploit code (if applicable).
 
 ### Processing Vulnerability
@@ -52,7 +52,8 @@ Please include as many details as needed to clearly qualify the issue:
    a. **Mitigation**: Depending on the severity and criticality of the issue, the team can decide to disclose the issue publicly in the absence of a fix _if and only if_ a clear, simple, and effective mitigation plan is defined. This _must_ include instructions for users and operators of the software, and a time horizon at which the issue will be properly fixed (eg. version number).
 
    b. **Fix**: When a fix is available and approved, it should be merged and made available as quickly as possible:
-   - All commits to the private repository are squashed into a single commit whose description _should not_ make any reference that it relates to a security vulnerability
+
+   - All commits to the private repository are squashed into a single commit whose description _should not_ make any reference it relates to a security vulnerability
    - A new Pull Request is created with this single commit
    - This PR's review and merging is expedited as all the work as already been done
 
@@ -87,17 +88,17 @@ report security vulnerabilities to us.
 
 ## Contact Information
 
-To report a security vulnerability, please use the [security advisory form on GitHub](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new). Should you experience any issues reporting via GitHub or have other questions, please contact [security@intersectmbo.org](mailto:security@intersectmbo.org).
+To report a security vulnerability, please use the [security advisory form on GitHub](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new). Should you experience any issues reporting via GitHub or have other questions, Please contact [Security](security@intersectmbo.org).
 
 ## Revision of Policy
 
 This Security Vulnerability Disclosure Policy may be updated or
 revised as necessary. Please check the latest version of this policy
-on the [Open-Source-Office repository](https://github.com/IntersectMBO/Open-Source-Office/tree/add-security-policies/security-policy-documents).
+on the [Open-Source-Office repository](https://github.com/IntersectMBO/Open-Source-Office).
 
 ## Conclusion
 
-The Open-Source-Office project greatly appreciates the assistance of the security
+The {PROJECT-NAME} project greatly appreciates the assistance of the security
 community in helping us maintain the security of our software while
 upholding the highest standards of privacy. Together, we can work to
 identify and address vulnerabilities, ensuring a safer and more secure
