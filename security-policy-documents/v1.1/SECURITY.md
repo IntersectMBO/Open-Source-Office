@@ -15,7 +15,7 @@ how we will respond to and remediate such reports.
 
 If you discover a security vulnerability in {PROJECT-NAME}, we encourage you to
 responsibly disclose it to us. To report a vulnerability, please use
-the [security advisory form on GitHub](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new)
+the [security advisory form on GitHub]({SECURITY_ADVISORY_FORM_LINK})
 to draft a new _Security advisory_.
 
 Please include as many details as needed to clearly qualify the issue:
@@ -87,7 +87,7 @@ report security vulnerabilities to us.
 
 ## Contact Information
 
-To report a security vulnerability, please use the [security advisory form on GitHub](https://github.com/IntersectMBO/Open-Source-Office/security/advisories/new). Should you experience any issues reporting via GitHub or have other questions, please contact [security@intersectmbo.org](mailto:security@intersectmbo.org).
+To report a security vulnerability, please use the [security advisory form on GitHub]({SECURITY_ADVISORY_FORM_LINK}). Should you experience any issues reporting via GitHub or have other questions, please contact [security@intersectmbo.org](mailto:security@intersectmbo.org).
 
 ## Revision of Policy
 
